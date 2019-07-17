@@ -9,7 +9,7 @@ Description :
   
   
 Project Url:
-  Source : https://github.com/asishchourasia/City-Without-Crime.git
+  Source : https://github.com/ogundimu1/Crime-Management-System.git
   
   
-Name : Asish Kumar Chourasia.
+Name : Sulaimon Bolaji
